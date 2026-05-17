@@ -54,6 +54,7 @@ chart-miner/
   tools/
     getids.py
     getEHR.py
+    getCloudpathologyDemographics.py
   projects/
     biopsy-analysis/
       instructions.md
@@ -281,6 +282,8 @@ ChartMiner needs at least two tools:
 
 - `getIds`: returns the list of IDs for the active project.
 - `getEHR`: returns the clinical records for one ID.
+- `getCloudpathologyDemographics`: fetches patient demographics from the public
+  Cloudpathology bill API for a bill ID.
 
 The default tools are file-based and live in `tools/`.
 
