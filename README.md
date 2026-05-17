@@ -24,6 +24,25 @@ For each project, ChartMiner:
 
 The included `biopsy-analysis` project provides a small reference workflow.
 
+## How It Works
+
+```mermaid
+flowchart LR
+    User[User runs ChartMiner] --> Project[Project instructions]
+    User --> Agent[ChartMiner agent]
+    Project --> Agent
+
+    Agent <--> LLM[LLM endpoint<br/>OpenAI or local]
+    Agent <--> Tools[Registered Python tools]
+    Tools <--> Sources[Clinical data sources<br/>files, EHRs, databases, APIs]
+
+    Agent --> Report[Research-ready summary<br/>with supporting evidence]
+```
+
+ChartMiner gives the LLM project instructions and a set of registered tools. The
+LLM decides when to call those tools, uses the returned clinical data, and writes
+the final analysis.
+
 ## How It Is Organized
 
 ChartMiner uses a folder-based structure so each research question can live in
