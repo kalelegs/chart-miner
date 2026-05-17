@@ -1,0 +1,7 @@
+Patient ID: P003
+Date: 2024-04-25
+Document type: Gastroenterology note
+
+Assessment: Gastric biopsy shows high-grade dysplasia without confirmed invasive
+cancer. Recommend endoscopic ultrasound and repeat sampling because malignancy
+cannot be excluded from the available tissue.

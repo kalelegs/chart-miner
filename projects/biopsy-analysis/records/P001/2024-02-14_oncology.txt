@@ -1,0 +1,7 @@
+Patient ID: P001
+Date: 2024-02-14
+Document type: Oncology consult
+
+Assessment: Newly diagnosed biopsy-proven left breast invasive ductal carcinoma.
+Plan: Breast MRI, surgical oncology referral, and discussion of endocrine therapy
+after definitive local management.

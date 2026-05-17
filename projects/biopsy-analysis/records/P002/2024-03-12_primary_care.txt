@@ -1,0 +1,6 @@
+Patient ID: P002
+Date: 2024-03-12
+Document type: Primary care follow-up
+
+Biopsy site healing well. Pathology reviewed with patient as benign. No further
+oncologic workup recommended.

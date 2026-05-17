@@ -1,0 +1,7 @@
+Patient ID: P001
+Date: 2024-02-10
+Document type: Surgical pathology
+
+Specimen: Left breast core needle biopsy, 2 o'clock position.
+Final diagnosis: Invasive ductal carcinoma, Nottingham grade 2.
+Ancillary studies: ER positive, PR positive, HER2 negative by IHC.

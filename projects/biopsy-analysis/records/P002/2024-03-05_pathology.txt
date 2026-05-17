@@ -1,0 +1,7 @@
+Patient ID: P002
+Date: 2024-03-05
+Document type: Dermatopathology
+
+Specimen: Punch biopsy, right forearm pigmented lesion.
+Final diagnosis: Compound melanocytic nevus with mild architectural disorder.
+No melanoma identified in examined sections.

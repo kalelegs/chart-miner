@@ -1,0 +1,7 @@
+Patient ID: P003
+Date: 2024-04-18
+Document type: Gastrointestinal pathology
+
+Specimen: Gastric antrum biopsy.
+Final diagnosis: High-grade dysplasia arising in intestinal metaplasia. Invasive
+carcinoma is not identified in this limited biopsy sample.

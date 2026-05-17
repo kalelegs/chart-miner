@@ -1,0 +1,5 @@
+pydantic==2.13.4
+openai-agents==0.17.2
+typer==0.25.1
+asyncio==4.0.0
+python-dotenv==1.2.2
